@@ -1,0 +1,7 @@
+data/
+lib/
+.env
+*.log
+__pycache__/
+*.db
+*.tdlib
